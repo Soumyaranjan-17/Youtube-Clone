@@ -1,0 +1,10 @@
+:root {
+    --primary-background: #0F0F0F;
+    --assent-background: #242424;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
